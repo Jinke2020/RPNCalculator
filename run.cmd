@@ -1,0 +1,1 @@
+java -jar -Xmx512m .\bin\RPNCalculator-1.0-RELEASE.jar
